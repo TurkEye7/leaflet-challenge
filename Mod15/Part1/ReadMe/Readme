@@ -1,0 +1,17 @@
+Earthquake Data Visualization
+This project visualizes earthquake data from the United States Geological Survey (USGS) using Leaflet. The map displays earthquake markers based on their magnitude and depth. Earthquakes with larger magnitudes are represented by larger markers, while deeper earthquakes are shown with darker colors.
+
+Features:
+Interactive map displaying earthquake data from the past week.
+Markers are color-coded based on the earthquake's depth.
+Popup windows show detailed information about each earthquake (location, magnitude, depth, and time).
+How to Use:
+Clone or download the repository.
+Open index.html in a web browser.
+The map will load with the latest earthquake data.
+Technologies Used:
+Leaflet.js for interactive maps
+GeoJSON for earthquake data
+JavaScript for logic and data handling
+Open Source AI Assistance:
+This project used open-source AI to assist with writing the code
